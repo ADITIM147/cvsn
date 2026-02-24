@@ -1,7 +1,5 @@
-
-
-
-1. tensorflow
-2. numpy
-3. matplotlib
-
+numpy
+pandas
+tensorflow
+scikit-learn
+matplotlib
